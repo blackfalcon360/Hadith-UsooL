@@ -1,0 +1,66 @@
+# TERM|arabic|urdu meaning|english meaning|lesson id (optional)
+TERM|الحديث|وہ جو نبی ﷺ کی طرف منسوب ہو: قول، فعل، تقریر یا صفت|Whatever is attributed to the Prophet ﷺ: words, actions, approvals or descriptions|1.1
+TERM|السنة|فنِ حدیث میں عموماً حدیث کے قریب؛ اصول میں قرآن کے علاوہ منقول شرعی دلیل؛ فقہ میں غیر واجب ثواب والا عمل|Near-synonym of hadith for muhaddithun; in usul the transmitted evidence besides the Qur'an; in fiqh a recommended act|1.1
+TERM|الخبر|ایک رائے میں حدیث کا ہم معنی، دوسری میں اس سے عام|Synonym of hadith in one view; broader in another|1.1
+TERM|الأثر|عموماً صحابہ و تابعین کے اقوال و افعال|Usually the words and acts of the Companions and Successors|1.1
+TERM|الحديث القدسي|جسے نبی ﷺ اپنے رب سے روایت کریں؛ اس کا لفظ قرآن نہیں|What the Prophet ﷺ narrates from his Lord; its wording is not the Qur'an|5.1
+TERM|السند|راویوں کا وہ سلسلہ جو متن تک پہنچاتا ہے|The chain of narrators leading to the text|2.1
+TERM|المتن|وہ کلام جس پر سند ختم ہوتی ہے|The text at the end of the chain|2.1
+TERM|الإسناد|حدیث کو سند کے ساتھ اس کے قائل کی طرف منسوب کرنا|Attributing a report to its source through a chain|2.1
+TERM|المسند|(1) ہر صحابی کی روایات الگ جمع کرنے والی کتاب؛ (2) متصل مرفوع حدیث؛ (3) خود اسناد|(1) a book arranged by Companion; (2) a connected marfu' hadith; (3) the isnad itself|2.1
+TERM|التحمل|استاد سے حدیث لینا|Receiving hadith from a teacher|2.2
+TERM|الأداء|حدیث کو آگے بیان کرنا|Transmitting hadith onwards|2.2
+TERM|الإجازة|استاد کا روایت کی اجازت دینا (بغیر سنائے)|A teacher's permission to narrate|2.2
+TERM|الوجادة|ایسی تحریر پانا جو سماع یا اجازت سے نہ ملی ہو|Finding a writing without hearing or ijaza|2.2
+TERM|المتواتر|اتنی کثرت سے مروی کہ جھوٹ پر اتفاق عادتاً محال ہو، اور خبر حسی ہو|Narrated by so many that collusion in lying is inconceivable, resting on perception|3.1
+TERM|الآحاد|جو متواتر کی شرائط پوری نہ کرے|A report that does not reach mutawatir|3.2
+TERM|المشهور|جس کی سندیں تین یا زیادہ ہوں (ابن حجر)؛ احناف کے ہاں متواتر و آحاد کے درمیان درجہ|Three or more routes (Ibn Hajar); in Hanafi usul a rank between mutawatir and ahad|3.2
+TERM|العزيز|جسے کسی طبقے میں دو سے کم راوی نہ ہوں|Never fewer than two narrators at any level|3.2
+TERM|الغريب|جس میں کسی مقام پر ایک راوی منفرد ہو|A single narrator at some level|3.2
+TERM|الصحيح لذاته|متصل، عادل و ضابط راویوں سے، شذوذ اور علت سے خالی|Connected, just and precise narrators, free of shudhudh and 'illa|4.1
+TERM|الصحيح لغيره|حسن لذاتہ جو متعدد سندوں سے صحیح کے درجے کو پہنچے|A hasan hadith raised to sahih by multiple routes|4.1
+TERM|الحسن لذاته|صحیح کی شرائط مگر ضبط میں ہلکی کمی (ابن حجر)|Sahih conditions but with lighter precision (Ibn Hajar)|4.2
+TERM|الحسن لغيره|ہلکی ضعیف روایت جو متعدد مستقل سندوں سے تقویت پائے|A lightly weak report strengthened by independent routes|4.2
+TERM|الضعيف|جس میں حسن کی شرائط نہ ہوں|A hadith lacking the conditions of hasan|4.3
+TERM|المقبول|صحیح اور حسن (قابلِ احتجاج)|Acceptable: sahih and hasan|4.1
+TERM|المردود|وہ جو قبول کی شرائط پوری نہ کرے|Rejected: lacking the conditions of acceptance|4.3
+TERM|المرفوع|جو نبی ﷺ کی طرف منسوب ہو|Attributed to the Prophet ﷺ|5.1
+TERM|الموقوف|جو صحابی کی طرف منسوب ہو|Attributed to a Companion|5.1
+TERM|المقطوع|جو تابعی یا اس کے بعد کی طرف منسوب ہو|Attributed to a Successor or later|5.1
+TERM|المتصل|جس کی سند کے سب راوی ایک دوسرے سے براہ راست لیں|Every narrator took directly from the one before|5.1
+TERM|المعنعن|جس میں راوی "عن فلان" کہے|A chain using "from so-and-so"|5.2
+TERM|المعلق|جس کی ابتدائے سند سے ایک یا لگاتار زیادہ راوی ساقط ہوں|Missing narrators at the beginning of the chain|5.3
+TERM|المرسل|تابعی کا صحابی کا واسطہ چھوڑ کر براہ راست نبی ﷺ سے روایت کرنا|A Successor narrating directly from the Prophet ﷺ|5.3
+TERM|المعضل|دو یا زیادہ لگاتار راوی ساقط|Two or more consecutive narrators missing|5.3
+TERM|المنقطع|عام معنی: غیر متصل؛ خاص: درمیان سے ایک راوی ساقط|Not connected (general); a narrator missing in the middle (specific)|5.3
+TERM|التدليس|سند یا شیخ کے عیب کو چھپانا یا اتصال کا گمان دینا|Concealing a defect in the chain or teacher, or implying a connection|5.3
+TERM|الشاذ|مقبول راوی کا اپنے سے مضبوط کی مخالفت کرنا|A reliable narrator contradicting someone more reliable|7.1
+TERM|المنكر|ضعیف راوی کا ثقات کی مخالفت کرنا|A weak narrator contradicting reliable narrators|7.1
+TERM|المحفوظ|شاذ کے مقابل راجح روایت|The preferred report opposite a shadhdh|7.1
+TERM|المعروف|منکر کے مقابل راجح روایت|The preferred report opposite a munkar|7.1
+TERM|المعلل|جس میں تحقیق کے بعد خفیہ علتِ قادحہ ظاہر ہو|A hadith with a hidden damaging defect found on investigation|7.2
+TERM|المضطرب|جس کی روایات میں ایسا اختلاف ہو کہ نہ جمع ممکن ہو نہ ترجیح|Conflicting reports that can be neither reconciled nor preferred|7.3
+TERM|المدرج|جس میں راوی کا اپنا کلام اصل حدیث میں داخل ہو جائے|Narrator's own words inserted into the report|7.3
+TERM|المقلوب|جس میں سند یا متن میں آگے پیچھے ہو جائے|Names or wording reversed|7.3
+TERM|المصحف|نقطوں کی غلط پڑھت سے لفظ کا بدل جانا|A word changed by misreading dots|7.3
+TERM|المحرف|شکل و اعراب کی تبدیلی سے لفظ کا بدل جانا|A word changed in form or vowels|7.3
+TERM|الموضوع|گھڑی ہوئی جھوٹی بات جو نبی ﷺ سے منسوب کی جائے|A fabricated lie attributed to the Prophet ﷺ|7.4
+TERM|المتروك|وہ راوی (یا روایت) جس پر شدید ضعف کی وجہ سے حدیث ترک کر دی جائے|Abandoned: a narrator or report left because of severe weakness|6.2
+TERM|المتابعة|دوسرا راوی اسی استاد (یا اس سے اوپر) سے وہی حدیث روایت کرے|Another narrator reporting the same hadith from the same teacher or higher|8.1
+TERM|الشاهد|دوسرے صحابی سے وہی یا ملتا جلتا معنی بیان کرنے والی حدیث|A hadith with the same meaning from a different Companion|8.1
+TERM|الاعتبار|حدیث کی تمام سندوں کی تلاش|Searching for all routes of a hadith|8.1
+TERM|العدالة|اسلام، بلوغ، عقل، فسق اور خوارمِ مروءت سے سلامتی|Islam, maturity, sanity, freedom from fisq and from lapses of manliness|6.1
+TERM|الضبط|یادداشت (ضبطِ صدر) اور کتاب کی حفاظت (ضبطِ کتاب)|Precision: memory and safeguarding of the written book|6.1
+TERM|الجرح|راوی میں ایسا عیب بیان کرنا جو اس کی عدالت یا ضبط کو متاثر کرے|Stating a defect in a narrator's justice or precision|6.2
+TERM|التعديل|راوی کی عدالت و ضبط کی گواہی|Testifying to a narrator's justice and precision|6.2
+TERM|الثقة|عادل اور ضابط راوی|A just and precise narrator|6.2
+TERM|الصدوق|سچا راوی جس کا ضبط ثقہ سے ذرا کم ہو|Truthful, with precision slightly below a thiqa|6.2
+TERM|المجهول|جس سے ایک ہی راوی نے روایت کی اور اس کی توثیق نہ ہو (ابن حجر)|Only one narrator reported from him and he is not declared reliable (Ibn Hajar)|6.2
+TERM|المستور|جس سے دو یا زیادہ راوی نے روایت کی مگر توثیق ثابت نہ ہو|Two or more narrated from him but his reliability is not established|6.2
+TERM|مختلف الحديث|دو مقبول احادیث جن کے ظاہر میں تعارض ہو|Two acceptable reports that appear to conflict|8.4
+TERM|الناسخ والمنسوخ|بعد کے حکم کا پہلے حکم کو ختم کر دینا|A later ruling replacing an earlier one|8.4
+TERM|التخريج|حدیث کے مصادر تلاش کر کے مقام اور درجہ بتانا|Locating a hadith in its sources and studying its chain|8.2
+TERM|المستدرك|وہ کتاب جس میں ان احادیث کا اضافہ ہو جو کسی دوسری کتاب کی شرط پر ہوں (جیسے حاکم کی المستدرک)|A book adding reports said to meet another book's conditions (e.g. al-Hakim's)|8.3
+TERM|المستخرج|وہ کتاب جس میں مصنف دوسرے کی حدیث اپنی سند سے روایت کرے|A book re-narrating another's hadith through the author's own chains|8.3
+TERM|الأطراف|وہ کتاب جس میں حدیث کے ایک حصے کا حوالہ دے کر اس کی سندیں جمع کی جائیں (جیسے تحفۃ الاشراف)|A reference work gathering a hadith's chains from its opening phrase (e.g. Tuhfat al-Ashraf)|8.2
+TERM|الرواية بالمعنى|الفاظ کی جگہ حدیث کا مفہوم بیان کرنا (شرائط کے ساتھ)|Narrating the meaning rather than the exact wording (with conditions)|2.2
